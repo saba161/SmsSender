@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Mze+J3Slvtbkz5pVQcO5tVYv5EenIcdQ29kSCy91ohU=",
+  "Source": "SmsSender",
+  "BasePath": "_content/SmsSender",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
